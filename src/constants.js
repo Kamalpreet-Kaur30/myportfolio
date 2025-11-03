@@ -122,7 +122,7 @@ export const SkillsInfo = [
     },
     {
       id: 1,
-      title: "Resulyze — AI Resume Analyzer",
+      title: "Resulyze — Resume Analyzer",
       description:
        "Resulyze is an AI-powered resume analysis platform designed to help users improve their job application success. It evaluates resumes against specific job descriptions to calculate an accurate ATS (Applicant Tracking System) score, highlight weak areas, and provide actionable improvement suggestions. Users can upload their resume and target role to instantly receive insights on format, keywords, and content alignment. Built using React Router v7, Tailwind CSS, Typescript and Puter for backend, authentication, and AI integration, Resulyze empowers candidates to create recruiter-ready resumes that stand out.",
       image: resulyzeLogo,
@@ -132,7 +132,7 @@ export const SkillsInfo = [
     },
     {
       id: 2,
-      title: "Dentra — AI Dental Voice Assistant",
+      title: "Dentra — Dental Voice Assistant",
       description:
         "Dentra is an AI-powered dental assistant that provides 24/7 voice-based consultations for dental concerns. Users can converse naturally with the assistant to get instant guidance and insights on oral health issues, offering a real-time experience similar to consulting a dentist. The platform also includes secure authentication, appointment booking, and subscription management features, allowing users to select doctors, schedule visits, and handle payments seamlessly. Built with Next.js, TypeScript, Tailwind CSS, PostgreSQL, Prisma, VAPI, and Clerk, Dentra bridges the gap between AI and healthcare through intelligent, voice-driven support.",
       image: dentraLogo,
